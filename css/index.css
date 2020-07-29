@@ -1,0 +1,104 @@
+@font-face { font-family: 'GmarketSansLight'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+.nav-link{
+  font-size: 25px;
+  margin-left: 50px;
+}
+
+.navbar-brand{
+  margin-left: 150px;
+
+}
+
+.dropdown-item{
+  font-family: 'GmarketSansLight';
+}
+
+.dropdown-menu{
+
+}
+
+#unlinemm{
+    width: 1000px;color:navy;border: thin solid navy;
+}
+#intromp{
+  text-align: center;
+  margin-top: 200px;
+  font-size: 25px;
+}
+
+.img-responsive{
+
+}
+#carouselExampleControls{
+
+  width: 700px;
+margin-left: 400px;
+margin-top: 70px;
+image-orientation: center;
+
+}
+.koko{
+  margin-bottom: 100px;
+}
+
+a{
+  font-family: 'GmarketSansLight';
+}
+h5{
+  font-family: 'GmarketSansLight';
+}
+p{
+  font-family: 'GmarketSansLight';
+  font-size: 20px;
+  line-height: 2em;
+}
+h4 {
+  font-family: 'GmarketSansLight';
+}
+
+#navbarcl{
+  background-color: navy;
+  position top: fixed;
+}
+
+#carouselExampleIndicators{
+  margin-top: 100px;
+  margin-left: 500px;
+}
+
+#mainimg{
+  padding-right: 450px;
+  width: auto; height: auto;
+  max-width: 1250px; max-height: 1250px;
+  display: inline-block;
+}
+
+#list-example{
+  margin-left: 40px;
+  margin-top: 250px;
+  width: 200px
+}
+
+#mainsc{
+
+}
+
+#list-example{
+
+position:fixed;
+
+
+}
+
+#unline{
+  width: 500px;color:navy;border: thin solid navy;
+  margin-bottom: 100px;
+}
+
+#list-item-1{
+  margin-top: 100px;
+}
+#list-item-1{
+
+}
